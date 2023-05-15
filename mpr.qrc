@@ -1,0 +1,9 @@
+<RCC>
+    <qresource>
+        <file alias="index.html">dist/all.html</file>
+        <file alias="app.js">dist/js/app.e751f231.js</file>
+        <file alias="chunk.js">dist/js/chunk-vendors.92a755bb.js</file>
+        <file alias="app.css">dist/css/app.6e27b3e5.css</file>
+        <file alias="chunk.css">dist/css/chunk-vendors.890dafc3.css</file>
+    </qresource>
+</RCC>
